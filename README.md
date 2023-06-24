@@ -1,2 +1,2 @@
 # PreCourse-Henrry
-Este es un repositorio de prueba del numero 2 de Henrry
+Este proyecto es de como creamos un clon del repositorio y guardamos en el local.
